@@ -1,0 +1,15 @@
+
+:root{
+    /*Colores de Letras*/
+    --colorLetraP: hsl(14, 45%, 36%);
+    --colorLetraS: hsl(332, 51%, 32%);
+    --colorLetraT: hsl(24, 5%, 18%);
+    --colorLetraC: hsl(30, 10%, 34%);
+
+    /*Colores de la página*/
+    --blanco: hsl(0, 0%, 100%);
+    --colorPrincipal: hsl(30, 54%, 90%);
+    --colorSecundario: hsl(330, 100%, 98%);
+    --colorSeparadores: hsl(30, 18%, 87%);
+}
+
